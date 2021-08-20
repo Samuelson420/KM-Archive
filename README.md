@@ -17,7 +17,7 @@ Kariomart is just a game I`m working on with 3 more people,
 actually one of them is a useless fortnite kid so we will say 2 more people.
 We have 1 coder, me :)
 2 Animators/Artists ( sword lord#2823 and Bayleyman#7267 )
-1 Beta Tester (Also Bayleyman)
+1 Beta Tester ( Also Bayleyman#7267 )
 1 Person who does nothing but is an og anyway (JaydenTheBoss)
 And yes the 3rd person is JaydenTheBoss.
 
