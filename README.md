@@ -30,7 +30,7 @@ And yes the 3rd person is JaydenTheBoss.
 {IMPORTANT} Race Start Sound can play a bit late on slower machines.
 
 . In the Game Modes part of the menu, Kario is wearing a hat and is not animated.
-(I was trying to add a hats feature :| )
+(I was trying to add a hats feature :|
 
 # Copyright And Licenses And Stuff
     
