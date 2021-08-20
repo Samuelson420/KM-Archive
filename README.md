@@ -21,6 +21,17 @@ We have 1 coder, me :)
 1 Person who does nothing but is an og anyway (JaydenTheBoss)
 And yes the 3rd person is JaydenTheBoss.
 
+# Known Issues
+
+. When Winning/Losing in Level 1/2 the background image is white.
+
+. Also, the you lose music is the same as the you win music.. so it sounds weird.
+
+{IMPORTANT} Race Start Sound can play a bit late on slower machines.
+
+. In the Game Modes part of the menu, Kario is wearing a hat and is not animated.
+(I was trying to add a hats feature :| )
+
 # Copyright And Licenses And Stuff
     
 This Bit is Important So Please Read...
