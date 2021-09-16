@@ -23,7 +23,7 @@ And yes the 3rd person is JaydenTheBoss.
 
 # Known Issues
 
-. When Winning/Losing in Level 1/2 the background image is white.
+. When Winning/Losing in Level 1/2 the background image is sometimes white.
 
 . Also, the you lose music is the same as the you win music.. so it sounds weird.
 
